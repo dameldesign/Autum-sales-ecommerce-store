@@ -1,7 +1,7 @@
 import React from 'react';
 
 const ProductContext = () => {
-  return <div>ProductContextl,l</div>
+  return <div>ProductContext</div>
 };
 
 export default ProductContext;
